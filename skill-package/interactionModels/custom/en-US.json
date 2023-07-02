@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "audio player sample",
+      "invocationName": "community stories",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
